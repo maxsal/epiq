@@ -1,11 +1,7 @@
-# How-Tos
+# Intro
 
 [Quick hits](#quick-hits) <br/>
-[Access OU Campus](#access-ou-campus)<br/>
-[Adding a presentation](#adding-a-presentation)<br/>
-[Adding a publication](#adding-a-publication)<br/>
-[Adding an event](#adding-an-event)<br/>
-[When all else fails](#when-all-else-fails)<br/>
+[Background](#background) <br/>
 
 ## Quick hits
 
@@ -31,3 +27,14 @@ Zach Bornemeier ([zach@careevolution.com](mailto:zach@careevolution.com))<br/>
   * [Log-in](https://rkstudio.careevolution.com/inv/identityserver/local/login?signInId=e725f83291b11ba1023c710747c709b1)
   * Contact [Zach](zach@careevolution.com) and request access to the "Michigan OPEN" organization in RKStudio for an account
 
+## Background
+
+The Michigan Genomics Initiative ([MGI](https://precisionhealth.umich.edu/michigangenomics/)) is a biobank at the University of Michigan that started in 2012. The goal is to create a massive health database that links to many data sources for the purposes of quickly performing hypothesis-free/hypothesis-generating studies and to speed up the ability to perform hypothesis-specific research, particularly with genetic data. The key characteristics of the current MGI consent are:
+1. Indefinite access to Michigan Medicine electronic health record (EHR) for research purposes
+2. Provision of biospecimen (blood, spit) for genotyping
+3. Linkage of EHR + genotype data to any other data that the Research Data Warehouse (RDW) can relate that participant to (e.g., administrative claims data through Medical Record Number or Social Security Number)
+4. Permission for future re-contact for research purposes
+The initial MGI consent (for roughly the first 15,000 participants) made part 4. an optional, opt-in feature. The current consent makes this opt-out. MGI data are available to UM researchers who have the appropriate permissions and approval.
+To date (January 2020), there are 80,000+ individuals who have consented, 70,000 individuals who have provided specimen, and 45,000 with readily available genotype data.
+
+The MGI Epidemiological Questionnaire (EPI-Q) serves to collect broad health-related information that cannot be readily or accurately obtained through linkable databases.
