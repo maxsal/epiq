@@ -20,19 +20,14 @@ Janet Houghtby ([houghtb@med.umich.edu](mailto:houghtb@med.umich.edu)<br/>
 Zach Bornemeier ([zach@careevolution.com](mailto:zach@careevolution.com))<br/>
 
 ### Important links
-<b>[Google Drive](https://drive.google.com/drive/u/0/folders/0AAQ7SYSJqQunUk9PVA)</b>
+* [Google Drive](https://drive.google.com/drive/u/0/folders/0AAQ7SYSJqQunUk9PVA)
+  * [Documentation](https://drive.google.com/drive/u/0/folders/1hKAG9l_tKwSswRJI6lL2kuxeJ2MuOGsl)
+  * [Modules](https://drive.google.com/drive/u/0/folders/1_ArYzWO1Q2Pye5uyucliwHa-zkVZT3U8)
+  * [Examples](https://drive.google.com/drive/u/0/folders/1gkZ9iXhq7lHMDYuef2e1rsev9hUnToBu)
+  * [Presentations](https://drive.google.com/drive/u/0/folders/1V5j9HrAdKRrZRvu0hV6o_fO9oNzcAl6E)
+  * If you can't access the Google Drive, email [Max](mailto:mmsalva@umich.edu) for access
+* [RKStudio](https://careevolution.com/rkstudio/)
+  * [User Guide](https://rkstudio-support.careevolution.com/hc/en-us)
+  * [Log-in](https://rkstudio.careevolution.com/inv/identityserver/local/login?signInId=e725f83291b11ba1023c710747c709b1)
+  * Contact [Zach](zach@careevolution.com) and request access to the "Michigan OPEN" organization in RKStudio for an account
 
-## Access OU Campus
-
-You can access OU Campus, the content management system (CMS) that the School of Public Health uses to maintain websites, by doing the following:
-1. Go to the [Center for Precision Health Data Science](https://sph.umich.edu/precision-health-data-science/index.html) website
-2. Scroll down to the bottom of the page
-3. Click on the copyright symbol (c) <br/>
-
-This will take you to the homepage in OU Campus.
-
-4. You can then click on the green 'Main Content' button to enter the page editor to update the webpage.
-5. Once the desired changes are made, save your changes by clicking on the save disk button in the upper left corner.
-6. Finally, click the green 'Publish' button at the top of the page to make these changes public.
-
-## Adding a presentation
