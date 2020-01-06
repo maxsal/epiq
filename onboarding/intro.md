@@ -35,6 +35,21 @@ The Michigan Genomics Initiative ([MGI](https://precisionhealth.umich.edu/michig
 3. Linkage of EHR + genotype data to any other data that the Research Data Warehouse (RDW) can relate that participant to (e.g., administrative claims data through Medical Record Number or Social Security Number)
 4. Permission for future re-contact for research purposes
 The initial MGI consent (for roughly the first 15,000 participants) made part 4. an optional, opt-in feature. The current consent makes this opt-out. MGI data are available to UM researchers who have the appropriate permissions and approval.
-To date (January 2020), there are 80,000+ individuals who have consented, 70,000 individuals who have provided specimen, and 45,000 with readily available genotype data.
+To date (January 2020), there are 80,000+ participants who have consented, 70,000 participants who have provided specimen, and 45,000 with readily available genotype data. MGI recruits roughly 10,000 participants per year.
+
+<b>MGI Cohorts</b> There are currently three main MGI cohorts:
+1. <b>MGI periop</b> The MGI perioperative cohort is the largest and recruits adult patients receiving anesthesia for surgical or diagnostic procedures at all Michigan Medicine operating roooms. It is led by [Chad Brummett](https://medicine.umich.edu/dept/pain-research/chad-brummett-md).
+2. <b>MGI MEND</b> The MGI Metabolism, Endocrinology and Diabetes (MEND) cohort is a subcohort that recruits through Michigan Medicine's Metabolism, Endocrinology and Diabetes clinics. It is led by [Charles (Chuck) Burant](https://sph.umich.edu/faculty-profiles/burant-charles.html).
+3. <b>MGI MHB</b> The MGI Mental Health Biobank cohort recruits through Michigan Medicine's mental health clinics. It is led by [Srijan Sen](https://www.srijan-sen-lab.com/people).
+
+There are other important ongoing or forthcoming cohorts:
+4. <b>MGI Big Bird</b> The MGI Big Bird cohort is relatively new and is targeted as recruiting children. It is currently the only MGI cohort recruiting children.
+5. <b>MIPACT</b> MIPACT is a subcohort of MGI that partners with Apple. These individuals receive Apple Watches and portable blood pressure cuffs for additional data collection. They are often considered separate from MGI due to the partnership with Apple (different consent form - notably they are not allowed to be recontacted).
+6. <b>General Population</b> MGI is about to launch a new cohort that aims to recruit individuals seeking medical care from Michigan Medicine through outpatient clinics. This has not yet launched.
+7. <b>UT-Austin</b> MGI is in talks with the University of Texas - Austin about recruiting a cohort there. The primary goal of this is to diversify the representation within MGI, primarily among Hispanics, but also among Blacks. This has not yet launched.
+
+<b>Major Biobanks</b> The most significant biobank is the [UK Biobank](https://www.ukbiobank.ac.uk), a biobank in the United Kingdom comprised 500,000 participants aged 40-69 that links EHR, genetic, and survey data and is publicly accessible. Other notable biobanks include the National Institutes of Health's <i>[All of Us](https://allofus.nih.gov)</i>, Vanderbilt's [BioVU](https://victr.vumc.org/biovu-description/), the [Million Veteran Program](https://www.research.va.gov/mvp/), the [China Kadoorie](https://www.ckbiobank.org/site/) biobank, the [Geisinger MyCode](https://www.geisinger.org/mycode) initiative, and the [Kaiser Permanente Research Bank].(https://researchbank.kaiserpermanente.org).
+
+For a brief overview of biobanks, major biobanks, and biobank-based research, refer to the first half of the [Beesley et al. 2019 paper](https://onlinelibrary.wiley.com/doi/10.1002/sim.8445).
 
 The MGI Epidemiological Questionnaire (EPI-Q) serves to collect broad health-related information that cannot be readily or accurately obtained through linkable databases.
