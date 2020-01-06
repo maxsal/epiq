@@ -43,10 +43,10 @@ To date (January 2020), there are 80,000+ participants who have consented, 70,00
 3. <b>MGI MHB</b> The MGI Mental Health Biobank cohort recruits through Michigan Medicine's mental health clinics. It is led by [Srijan Sen](https://www.srijan-sen-lab.com/people).
 
 There are other important ongoing or forthcoming cohorts:
-4. <b>MGI Big Bird</b> The MGI Big Bird cohort is relatively new and is targeted as recruiting children. It is currently the only MGI cohort recruiting children.
-5. <b>MIPACT</b> MIPACT is a subcohort of MGI that partners with Apple. These individuals receive Apple Watches and portable blood pressure cuffs for additional data collection. They are often considered separate from MGI due to the partnership with Apple (different consent form - notably they are not allowed to be recontacted).
-6. <b>General Population</b> MGI is about to launch a new cohort that aims to recruit individuals seeking medical care from Michigan Medicine through outpatient clinics. This has not yet launched.
-7. <b>UT-Austin</b> MGI is in talks with the University of Texas - Austin about recruiting a cohort there. The primary goal of this is to diversify the representation within MGI, primarily among Hispanics, but also among Blacks. This has not yet launched.
+1. <b>MGI Big Bird</b> The MGI Big Bird cohort is relatively new and is targeted as recruiting children. It is currently the only MGI cohort recruiting children.
+2. <b>MIPACT</b> MIPACT is a subcohort of MGI that partners with Apple. These individuals receive Apple Watches and portable blood pressure cuffs for additional data collection. They are often considered separate from MGI due to the partnership with Apple (different consent form - notably they are not allowed to be recontacted).
+3. <b>General Population</b> MGI is about to launch a new cohort that aims to recruit individuals seeking medical care from Michigan Medicine through outpatient clinics. This has not yet launched.
+4. <b>UT-Austin</b> MGI is in talks with the University of Texas - Austin about recruiting a cohort there. The primary goal of this is to diversify the representation within MGI, primarily among Hispanics, but also among Blacks. This has not yet launched.
 
 <b>Major Biobanks</b> The most significant biobank is the [UK Biobank](https://www.ukbiobank.ac.uk), a biobank in the United Kingdom comprised 500,000 participants aged 40-69 that links EHR, genetic, and survey data and is publicly accessible. Other notable biobanks include the National Institutes of Health's <i>[All of Us](https://allofus.nih.gov)</i>, Vanderbilt's [BioVU](https://victr.vumc.org/biovu-description/), the [Million Veteran Program](https://www.research.va.gov/mvp/), the [China Kadoorie](https://www.ckbiobank.org/site/) biobank, the [Geisinger MyCode](https://www.geisinger.org/mycode) initiative, and the [Kaiser Permanente Research Bank].(https://researchbank.kaiserpermanente.org).
 
