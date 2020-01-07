@@ -11,12 +11,16 @@
 #### Internal
 Max Salvatore ([mmsalva@umich.edu](mailto:mmsalva@umich.edu); 440-915-8570)<br/>
 * Led survey development and regulatory approvals<br/>
+
 Davina Barron ([davinab@umich.edu](mailto:davinab@umich.edu))<br/>
 * To monitor survey administration and serve as contact person for participant inquiries<br/>
+
 Justin Gotlieb ([gotliebj@med.umich.edu](mailto:gotliebj@med.umich.edu))<br/>
 * New study team member<br/>
+
 Janet Houghtby ([houghtb@med.umich.edu](mailto:houghtb@med.umich.edu)<br/>
 * New study team member<br/>
+
 Swaraaj Prabhu Sankar ([swarsank@umich.edu](mailto:swarsank@umich.edu))<br/>
 * Oversees EPI-Q data storage, transfer, cleaning, and maintenance<br/>
 
@@ -28,16 +32,23 @@ Zach Bornemeier ([zach@careevolution.com](mailto:zach@careevolution.com))<br/>
 #### Research Data Warehouse (RDW)
 [Erin Kaleba](https://research.medicine.umich.edu/department/staff/erin-o-kaleba) ([eokaleba@med.umich.edu](mailto:eokaleba@med.umich.edu))<br/>
 * Director of the Data Office for Clinical and Translational Research (DOCTR) and DataDirect; CC on all communications regarding EPI-Q and RDW<br/>
+
 [Cinzia Smothers](https://precisionhealth.umich.edu/about/staff/) ([cinziavs@med.umich.edu](mailto:cinziavs@med.umich.edu))<br/>
 * CC on all EPI-Q related emails to Erin<br/>
+
 [Anisa Driscoll](https://precisionhealth.umich.edu/about/staff/) ([azeqja@med.umich.edu](mailto:azeqja@med.umich.edu))<br/>
 * Responsible for fulfilling RDW data requests - overseeing the procurement of the EPI-Q contact list<br/>
+
 [Peter Bow](https://precisionhealth.umich.edu/mipact/study-team/) ([pbow@med.umich.edu](mailto:pbow@med.umich.edu))<br/>
 * Technical contact for EPI-Q data transfer - working with Erin's team and Frank to identify technical needs (e.g., server, hardware purchases)<br/>
+
 [Justin Ortwine](https://precisionhealth.umich.edu/mipact/study-team/) ([ortwinej@med.umich.edu](mailto:ortwinej@med.umich.edu))<br/>
+
 * Experienced assisting data transfers from CareEvolution to RDW - will likely assist Swaraaj in data transfer. Part of Peter's team.<br/>
+
 [Jeremy Jared](https://precisionhealth.umich.edu/mipact/study-team/) ([jjared@med.umich.edu](mailto:jjared@med.umich.edu))<br/>
 * Experienced assisting data transfers from CareEvolution to RDW. Part of Peter's team.<br/>
+
 [Chelsea McKinney](https://precisionhealth.umich.edu/mipact/study-team/) ([cmckin@med.umich.edu](mailto:cmckin@med.umich.edu))<br/>
 * Introduced the internal MIPACT dashboard to Bhramar. Serves as a project manager related to MIPACT (??).<br/>
 
@@ -45,12 +56,14 @@ Zach Bornemeier ([zach@careevolution.com](mailto:zach@careevolution.com))<br/>
 #### Precision Health Initiative
 [Frank Lobeck](https://precisionhealth.umich.edu/about/staff/) ([lobeckfr@med.umich.edu](mailto:lobeckfr@med.umich.edu))<br/>
 * Director of Cohort Development. Provides important direction and support for EPI-Q recruitment and is the Precision Health contact person regarding EPI-Q budget issues.<br/>
+
 [Kendall DuBois](https://medicine.umich.edu/dept/pain-research/kendall-dubois) ([kendalld@med.umich.edu](mailto:kendalld@med.umich.edu))
 * Serves as a project coordinator for oPIOIDS(??) and has been a contact person at Precision Health for EPI-Q. Has assisted in CareEvolution/MyDataHelps-EPI-Q compliance approval efforts.<br/>
 
 #### M-OPEN/Michigan oPIOIDS
 [Stephanie Moser](https://medicine.umich.edu/dept/pain-research/stephanie-moser) ([stemoser@med.umich.edu](mailto:stemoser@med.umich.edu))<br/>
 * Project manager for oPIOIDS on Chad's team. Attends weekly Michigan-CareEvolution calls.<br/>
+
 [Michael (Justin) Sipe](https://medicine.umich.edu/dept/pain-research/justin-sipe) ([mjsipe@med.umich.edu](mailto:mjsipe@med.umich.edu))<br/>
 * Study staff for oPIOIDS and has done a lot of field work (recruitment) and trainings. Attends weekly Michigan-CareEvolution calls.<br/>
 
