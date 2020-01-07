@@ -3,38 +3,56 @@
 [Quick hits](#quick-hits) <br/>
 [Background](#background) <br/>
 [Development](#development) <br/>
+[Support](#support) <br/>
 
 ## Quick hits
 
 ### Study Team
 #### Internal
 Max Salvatore ([mmsalva@umich.edu](mailto:mmsalva@umich.edu); 440-915-8570)<br/>
+* Led survey development and regulatory approvals
 Davina Barron ([davinab@umich.edu](mailto:davinab@umich.edu))<br/>
+* To monitor survey administration and serve as contact person for participant inquiries
 Justin Gotlieb ([gotliebj@med.umich.edu](mailto:gotliebj@med.umich.edu))<br/>
+* New study team member
 Janet Houghtby ([houghtb@med.umich.edu](mailto:houghtb@med.umich.edu)<br/>
+* New study team member
 Swaraaj Prabhu Sankar ([swarsank@umich.edu](mailto:swarsank@umich.edu))<br/>
+* Oversees EPI-Q data storage, transfer, cleaning, and maintenance
 
 #### CareEvolution
 Zach Bornemeier ([zach@careevolution.com](mailto:zach@careevolution.com))<br/>
+* EPI-Q contact person at CareEvolution - email regarding any requests, questions, or changes (also CC [RKStudioSupport@careevolution.com](mailto:RKStudioSupport@careevolution.com))
 
 ### Other Contacts
-#### Research Data Warehouse
+#### Research Data Warehouse (RDW)
 [Erin Kaleba](https://research.medicine.umich.edu/department/staff/erin-o-kaleba) ([eokaleba@med.umich.edu](mailto:eokaleba@med.umich.edu))<br/>
+* Director of the Data Office for Clinical and Translational Research (DOCTR) and DataDirect; CC on all communications regarding EPI-Q and RDW
 [Cinzia Smothers](https://precisionhealth.umich.edu/about/staff/) ([cinziavs@med.umich.edu](mailto:cinziavs@med.umich.edu))<br/>
+* CC on all EPI-Q related emails to Erin
 [Anisa Driscoll](https://precisionhealth.umich.edu/about/staff/) ([azeqja@med.umich.edu](mailto:azeqja@med.umich.edu))<br/>
+* Responsible for fulfilling RDW data requests - overseeing the procurement of the EPI-Q contact list
 [Peter Bow](https://precisionhealth.umich.edu/mipact/study-team/) ([pbow@med.umich.edu](mailto:pbow@med.umich.edu))<br/>
+* Technical contact for EPI-Q data transfer - working with Erin's team and Frank to identify technical needs (e.g., server, hardware purchases)
 [Justin Ortwine](https://precisionhealth.umich.edu/mipact/study-team/) ([ortwinej@med.umich.edu](mailto:ortwinej@med.umich.edu))<br/>
+* Experienced assisting data transfers from CareEvolution to RDW - will likely assist Swaraaj in data transfer. Part of Peter's team.
 [Jeremy Jared](https://precisionhealth.umich.edu/mipact/study-team/) ([jjared@med.umich.edu](mailto:jjared@med.umich.edu))<br/>
+* Experienced assisting data transfers from CareEvolution to RDW. Part of Peter's team.
 [Chelsea McKinney](https://precisionhealth.umich.edu/mipact/study-team/) ([cmckin@med.umich.edu](mailto:cmckin@med.umich.edu))<br/>
+* Introduced the internal MIPACT dashboard to Bhramar. Serves as a project manager related to MIPACT (??).
 
 
 #### Precision Health Initiative
 [Frank Lobeck](https://precisionhealth.umich.edu/about/staff/) ([lobeckfr@med.umich.edu](mailto:lobeckfr@med.umich.edu))<br/>
+* Director of Cohort Development. Provides important direction and support for EPI-Q recruitment and is the Precision Health contact person regarding EPI-Q budget issues.
 [Kendall DuBois](https://medicine.umich.edu/dept/pain-research/kendall-dubois) ([kendalld@med.umich.edu](mailto:kendalld@med.umich.edu))
+* Serves as a project coordinator for oPIOIDS(??) and has been a contact person at Precision Health for EPI-Q. Has assisted in CareEvolution/MyDataHelps-EPI-Q compliance approval efforts.
 
 #### M-OPEN/Michigan oPIOIDS
 [Stephanie Moser](https://medicine.umich.edu/dept/pain-research/stephanie-moser) ([stemoser@med.umich.edu](mailto:stemoser@med.umich.edu))<br/>
+* Project manager for oPIOIDS on Chad's team. Attends weekly Michigan-CareEvolution calls.
 [Michael (Justin) Sipe](https://medicine.umich.edu/dept/pain-research/justin-sipe) ([mjsipe@med.umich.edu](mailto:mjsipe@med.umich.edu))
+* Study staff for oPIOIDS and has done a lot of field work (recruitment) and trainings. Attends weekly Michigan-CareEvolution calls.
 
 ### Important links
 * [Google Drive](https://drive.google.com/drive/u/0/folders/0AAQ7SYSJqQunUk9PVA)
@@ -116,3 +134,20 @@ After receiving initial IRB approval and programming into RKStudio, the survey w
 * CareEvolution: Zach Bornemeier, Jill Bornemeier, Dan Cuson, Don Kaczmer, Chris Nowak
 Edits based on user feedback are currently being incorporated and will likely result in a new IRB amendment...
   
+## Support
+
+### Permissions
+
+#### IRB
+
+### Approvals
+
+### Support
+
+#### Letters of Support
+The following letters of support can be found in the Google Drive and are included in the eResearch application Section 44. They indicate the PI's approval of EPI-Q to recontact participants in their respective cohorts.
+* MGI periop: Chad Brummett, received 5 June 2019
+* MGI MEND: Charles "Chuck" Burant, received 4 June 2019
+* MGI MHB: Srijan Sen, received 3 June 2019
+
+### Compliance
