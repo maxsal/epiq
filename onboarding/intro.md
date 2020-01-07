@@ -43,7 +43,7 @@ To date (January 2020), there are 80,000+ participants who have consented, 70,00
 2. <b>MGI MEND</b> The MGI Metabolism, Endocrinology and Diabetes (MEND) cohort is a subcohort that recruits through Michigan Medicine's Metabolism, Endocrinology and Diabetes clinics. It is led by [Charles (Chuck) Burant](https://sph.umich.edu/faculty-profiles/burant-charles.html).
 3. <b>MGI MHB</b> The MGI Mental Health Biobank cohort recruits through Michigan Medicine's mental health clinics. It is led by [Srijan Sen](https://www.srijan-sen-lab.com/people).
 
-There are other important ongoing or forthcoming cohorts:
+When referring to MGI, the MGI periop cohort is always being referenced. It sometimes includes MGI MEND and MGI MHB as well. Sometimes, MGI refers to all cohorts who are recruited using the consent criteria above, including the following ongoing or forthcoming cohorts:
 1. <b>MGI Big Bird</b> The MGI Big Bird cohort is relatively new and is targeted as recruiting children. It is currently the only MGI cohort recruiting children.
 2. <b>MIPACT</b> MIPACT is a subcohort of MGI that partners with Apple. These individuals receive Apple Watches and portable blood pressure cuffs for additional data collection. They are often considered separate from MGI due to the partnership with Apple (different consent form - notably they are not allowed to be recontacted).
 3. <b>General Population</b> MGI is about to launch a new cohort that aims to recruit individuals seeking medical care from Michigan Medicine through outpatient clinics. This has not yet launched.
@@ -64,3 +64,10 @@ For a brief overview of biobanks, major biobanks, and biobank-based research, re
   * Consistency of response options within and across questions
   * Survey flow - in what order to ask questions, what skip logic seems most appropriate, etc.
   * Respondent burden - clarity, ease of understanding, topic comfortability, length of survey
+* <b>More revisions</b> More revisions were made, more modules were added, and more domain experts were consulted, including:
+  * Alcohol, cancer, sexual activity, smoking: [Andrew Brouwer](https://sph.umich.edu/faculty-profiles/brouwer_andrew.html), [Jihyoun Jeon](https://sph.umich.edu/faculty-profiles/jeon-jihjeon.html), and [Rafael Meza](https://sph.umich.edu/faculty-profiles/meza-rafael.html)
+  * Healthcare access and utilization: [Minal Patel](https://sph.umich.edu/faculty-profiles/patel-minal.html)
+  * Occupational exposure (context): [Richard Neitzel](https://sph.umich.edu/faculty-profiles/neitzel-richard.html) and [Sung Kyun Park](https://sph.umich.edu/faculty-profiles/park-sungkyun.html)
+  * Physical activity: [Belinda Needham](https://sph.umich.edu/faculty-profiles/needham-belinda.html)
+  * General feedback (including all the above): [Michael Boehnke](https://sph.umich.edu/faculty-profiles/boehnke-michael.html), [Anita Pandit](https://precisionhealth.umich.edu/about/staff/), [Sebastian Z\H{o}llner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html), 
+  
