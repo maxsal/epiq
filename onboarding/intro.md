@@ -17,6 +17,25 @@ Swaraaj Prabhu Sankar ([swarsank@umich.edu](mailto:swarsank@umich.edu))<br/>
 #### CareEvolution
 Zach Bornemeier ([zach@careevolution.com](mailto:zach@careevolution.com))<br/>
 
+### Other Contacts
+#### Research Data Warehouse
+[Erin Kaleba](https://research.medicine.umich.edu/department/staff/erin-o-kaleba) ([eokaleba@med.umich.edu](mailto:eokaleba@med.umich.edu))<br/>
+[Cinzia Smothers](https://precisionhealth.umich.edu/about/staff/) ([cinziavs@med.umich.edu](mailto:cinziavs@med.umich.edu))<br/>
+[Anisa Driscoll](https://precisionhealth.umich.edu/about/staff/) ([azeqja@med.umich.edu](mailto:azeqja@med.umich.edu))<br/>
+[Peter Bow](https://precisionhealth.umich.edu/mipact/study-team/) ([pbow@med.umich.edu](mailto:pbow@med.umich.edu))<br/>
+[Justin Ortwine](https://precisionhealth.umich.edu/mipact/study-team/) ([ortwinej@med.umich.edu](mailto:ortwinej@med.umich.edu))<br/>
+[Jeremy Jared](https://precisionhealth.umich.edu/mipact/study-team/) ([jjared@med.umich.edu](mailto:jjared@med.umich.edu))<br/>
+[Chelsea McKinney](https://precisionhealth.umich.edu/mipact/study-team/) ([cmckin@med.umich.edu](mailto:cmckin@med.umich.edu))<br/>
+
+
+#### Precision Health Initiative
+[Frank Lobeck](https://precisionhealth.umich.edu/about/staff/) ([lobeckfr@med.umich.edu](mailto:lobeckfr@med.umich.edu))<br/>
+[Kendall DuBois](https://medicine.umich.edu/dept/pain-research/kendall-dubois) ([kendalld@med.umich.edu](mailto:kendalld@med.umich.edu))
+
+#### M-OPEN/Michigan oPIOIDS
+[Stephanie Moser](https://medicine.umich.edu/dept/pain-research/stephanie-moser) ([stemoser@med.umich.edu](mailto:stemoser@med.umich.edu))<br/>
+[Michael (Justin) Sipe](https://medicine.umich.edu/dept/pain-research/justin-sipe) ([mjsipe@med.umich.edu](mailto:mjsipe@med.umich.edu))
+
 ### Important links
 * [Google Drive](https://drive.google.com/drive/u/0/folders/0AAQ7SYSJqQunUk9PVA)
   * [Documentation](https://drive.google.com/drive/u/0/folders/1hKAG9l_tKwSswRJI6lL2kuxeJ2MuOGsl)
