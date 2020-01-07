@@ -69,5 +69,5 @@ For a brief overview of biobanks, major biobanks, and biobank-based research, re
   * Healthcare access and utilization: [Minal Patel](https://sph.umich.edu/faculty-profiles/patel-minal.html)
   * Occupational exposure (context): [Richard Neitzel](https://sph.umich.edu/faculty-profiles/neitzel-richard.html) and [Sung Kyun Park](https://sph.umich.edu/faculty-profiles/park-sungkyun.html)
   * Physical activity: [Belinda Needham](https://sph.umich.edu/faculty-profiles/needham-belinda.html)
-  * General feedback (including all the above): [Michael Boehnke](https://sph.umich.edu/faculty-profiles/boehnke-michael.html), [Anita Pandit](https://precisionhealth.umich.edu/about/staff/), [Sebastian Z\H{o}llner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html), 
+  * General feedback (including all the above): [Michael Boehnke](https://sph.umich.edu/faculty-profiles/boehnke-michael.html), [Anita Pandit](https://precisionhealth.umich.edu/about/staff/), [Sebastian Z&ouml;llner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html), 
   
