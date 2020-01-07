@@ -60,7 +60,7 @@ For a brief overview of biobanks, major biobanks, and biobank-based research, re
  The MGI Epidemiological Questionnaire (EPI-Q) serves to collect broad health-related information that cannot be readily or accurately obtained through linkable databases. Its development went through the following phases:
 
 
-### Initial
+#### Initial
 The EPI-Q is based on the publicly available [UK Biobank survey](https://www.ukbiobank.ac.uk/wp-content/uploads/2019/09/Touchscreen-questionnaire-for-website_Copyright.pdf). 
 * The survey was broken up into distinct modules. Modules were reviewed for their utility in the case of EPI-Q considering the administration format and cross-sectional nature; some modules were identified as <i>baseline</i> modules and others <i>optional</i>. For example, because it is self-administered via electronic software and is collected cross-sectionally, the diet module was identified as being optional.
 * Questions were reviewed for clarity and adapted by the study team for an American audience.
@@ -68,7 +68,7 @@ The EPI-Q is based on the publicly available [UK Biobank survey](https://www.ukb
 * Initial feedback from domain experts was collected on specific questions who recommended alterations and suggested alternative instruments for consideration.
 
 
-### ISR
+#### ISR
 After this initial construction, the survey draft was shared with the [Survey Research Center](https://www.src.isr.umich.edu) at the [Institute for Social Research](https://isr.umich.edu). Max went through several revisions and met with [Lisa Holland](https://www.src.isr.umich.edu/people/lisa-holland/). Topics included:
 * Adaption for American audience
 * Consistency of response options within and across questions
@@ -76,7 +76,7 @@ After this initial construction, the survey draft was shared with the [Survey Re
 * Respondent burden - clarity, ease of understanding, topic comfortability, length of survey
 
 
-### More revisions
+#### More revisions
 More revisions were made, more modules were added, and more domain experts were consulted, including:
 * Alcohol, cancer, sexual activity, smoking: [Andrew Brouwer](https://sph.umich.edu/faculty-profiles/brouwer_andrew.html), [Jihyoun Jeon](https://sph.umich.edu/faculty-profiles/jeon-jihjeon.html), and [Rafael Meza](https://sph.umich.edu/faculty-profiles/meza-rafael.html)
 * Healthcare access and utilization: [Minal Patel](https://sph.umich.edu/faculty-profiles/patel-minal.html)
@@ -88,12 +88,12 @@ More revisions were made, more modules were added, and more domain experts were 
 Following revisions based on feedback from domain experts and researchers and internal study team testing, the draft was again reviewed by Lisa Holland.
 
 
-### IRB Approval
+#### IRB Approval
 After changes based on Lisa's second review, the questionnaire was submitted for IRB approval under HUM00155782. It received initial IRB approval on <u>9 October 2019</u>.
 
-### "Friends and Family"
+#### "Friends and Family"
 After receiving initial IRB approval and programming into RKStudio, the survey was piloted in a "<i>friends and family</i>" format. The following individuals from Michigan and CareEvolution took part in the friends and family pilot:
 * Michigan: Max Salvatore, Lauren Beelsey, Sangjun Suh, Andrew Brouwer, Davina Barron, Laura Arboleda, Lars Fritsche, Alex Rix, Max Aung, Dan Barker, Mike Kleinsasser
 * CareEvolution: Zach Bornemeier, Jill Bornemeier, Dan Cuson, Don Kaczmer, Chris Nowak
-  
+Edits based on user feedback are currently being incorporated and will likely result in a new IRB amendment...
   
