@@ -57,25 +57,37 @@ For a brief overview of biobanks, major biobanks, and biobank-based research, re
 ## Development
 
 <b>EPI-Q</b> The MGI Epidemiological Questionnaire (EPI-Q) serves to collect broad health-related information that cannot be readily or accurately obtained through linkable databases. Its development went through the following phases:
-* <b>Initial</b> The EPI-Q is based on the publicly available [UK Biobank survey](https://www.ukbiobank.ac.uk/wp-content/uploads/2019/09/Touchscreen-questionnaire-for-website_Copyright.pdf). 
-  * The survey was broken up into distinct modules. Modules were reviewed for their utility in the case of EPI-Q considering the administration format and cross-sectional nature; some modules were identified as <i>baseline</i> modules and others <i>optional</i>. For example, because it is self-administered via electronic software and is collected cross-sectionally, the diet module was identified as being optional.
-  * Questions were reviewed for clarity and adapted by the study team for an American audience.
-  * Other biobank surveys were reviewed to compare similarities and identify gaps (i.e., modules/topics that are not present in the UK Biobank). These surveys include the MGI perioperative baseline survey, the <i>[All of Us](https://allofus.nih.gov/about/protocol/all-us-health-surveys)</i> initiative, and [Genes for Good](https://genesforgood.sph.umich.edu). All of Us received priority in identifying new modules/topics for inclusion as well as instruments/items to use to adapt UK Biobank survey for an American audience.
-  * Initial feedback from domain experts was collected on specific questions who recommended alterations and suggested alternative instruments for consideration.
-* <b>ISR</b> After this initial construction, the survey draft was shared with the [Survey Research Center](https://www.src.isr.umich.edu) at the [Institute for Social Research](https://isr.umich.edu). Max went through several revisions and met with [Lisa Holland](https://www.src.isr.umich.edu/people/lisa-holland/). Topics included:
-  * Adaption for American audience
-  * Consistency of response options within and across questions
-  * Survey flow - in what order to ask questions, what skip logic seems most appropriate, etc.
-  * Respondent burden - clarity, ease of understanding, topic comfortability, length of survey
-* <b>More revisions</b> More revisions were made, more modules were added, and more domain experts were consulted, including:
-  * Alcohol, cancer, sexual activity, smoking: [Andrew Brouwer](https://sph.umich.edu/faculty-profiles/brouwer_andrew.html), [Jihyoun Jeon](https://sph.umich.edu/faculty-profiles/jeon-jihjeon.html), and [Rafael Meza](https://sph.umich.edu/faculty-profiles/meza-rafael.html)
-  * Healthcare access and utilization: [Minal Patel](https://sph.umich.edu/faculty-profiles/patel-minal.html)
-  * Occupational exposure (context): [Richard Neitzel](https://sph.umich.edu/faculty-profiles/neitzel-richard.html) and [Sung Kyun Park](https://sph.umich.edu/faculty-profiles/park-sungkyun.html)
-  * Physical activity: [Belinda Needham](https://sph.umich.edu/faculty-profiles/needham-belinda.html)
-  * General feedback (including all the above; not exhaustive): [Michael Boehnke](https://sph.umich.edu/faculty-profiles/boehnke-michael.html), [Anita Pandit](https://precisionhealth.umich.edu/about/staff/), [Sebastian Z&ouml;llner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html), [Chad Brummett](https://medicine.umich.edu/dept/pain-research/chad-brummett-md), [Sachin Kheterpal](https://medicine.umich.edu/medschool/leadership/sachin-kheterpal-md-mba), [Stephanie Moser](https://medicine.umich.edu/dept/pain-research/stephanie-moser), [Elena Stoffel](https://www.uofmhealth.org/profile/2702/elena-martinez-stoffel-md), [Lars Fritsche](https://sph.umich.edu/faculty-profiles/fritsche-lars.html), [Amy Cohn](https://amycohn.engin.umich.edu), [Lynda Lisabeth](https://sph.umich.edu/faculty-profiles/lisabeth-lynda.html), [Frank Lobeck](https://precisionhealth.umich.edu/about/staff/)
-* Following revisions based on feedback from domain experts and researchers and internal study team testing, the draft was again reviewed by Lisa Holland.
-* <b>IRB Approval</b> After changes based on Lisa's second review, the questionnaire was submitted for IRB approval under HUM00155782. It received initial IRB approval on 9 October 2019.
-* <b>"Friends and Family"</b> After receiving initial IRB approval and programming into RKStudio, the survey was piloted in a "<i>friends and family</i>" format. The following individuals from Michigan and CareEvolution took part in the friends and family pilot:
-  * Michigan: Max Salvatore, Lauren Beelsey, Sangjun Suh, Andrew Brouwer, Davina Barron, Laura Arboleda, Lars Fritsche, Alex Rix, Max Aung, Dan Barker, Mike Kleinsasser
-  * CareEvolution: Zach Bornemeier, Jill Bornemeier, Dan Cuson, Don Kaczmer, Chris Nowak
+
+
+<b><u>Initial</u></b> The EPI-Q is based on the publicly available [UK Biobank survey](https://www.ukbiobank.ac.uk/wp-content/uploads/2019/09/Touchscreen-questionnaire-for-website_Copyright.pdf). 
+* The survey was broken up into distinct modules. Modules were reviewed for their utility in the case of EPI-Q considering the administration format and cross-sectional nature; some modules were identified as <i>baseline</i> modules and others <i>optional</i>. For example, because it is self-administered via electronic software and is collected cross-sectionally, the diet module was identified as being optional.
+* Questions were reviewed for clarity and adapted by the study team for an American audience.
+* Other biobank surveys were reviewed to compare similarities and identify gaps (i.e., modules/topics that are not present in the UK Biobank). These surveys include the MGI perioperative baseline survey, the <i>[All of Us](https://allofus.nih.gov/about/protocol/all-us-health-surveys)</i> initiative, and [Genes for Good](https://genesforgood.sph.umich.edu). All of Us received priority in identifying new modules/topics for inclusion as well as instruments/items to use to adapt UK Biobank survey for an American audience.
+* Initial feedback from domain experts was collected on specific questions who recommended alterations and suggested alternative instruments for consideration.
+
+
+<b><u>ISR</u></b> After this initial construction, the survey draft was shared with the [Survey Research Center](https://www.src.isr.umich.edu) at the [Institute for Social Research](https://isr.umich.edu). Max went through several revisions and met with [Lisa Holland](https://www.src.isr.umich.edu/people/lisa-holland/). Topics included:
+* Adaption for American audience
+* Consistency of response options within and across questions
+* Survey flow - in what order to ask questions, what skip logic seems most appropriate, etc.
+* Respondent burden - clarity, ease of understanding, topic comfortability, length of survey
+
+
+<b><u>More revisions</u></b> More revisions were made, more modules were added, and more domain experts were consulted, including:
+* Alcohol, cancer, sexual activity, smoking: [Andrew Brouwer](https://sph.umich.edu/faculty-profiles/brouwer_andrew.html), [Jihyoun Jeon](https://sph.umich.edu/faculty-profiles/jeon-jihjeon.html), and [Rafael Meza](https://sph.umich.edu/faculty-profiles/meza-rafael.html)
+* Healthcare access and utilization: [Minal Patel](https://sph.umich.edu/faculty-profiles/patel-minal.html)
+* Occupational exposure (context): [Richard Neitzel](https://sph.umich.edu/faculty-profiles/neitzel-richard.html) and [Sung Kyun Park](https://sph.umich.edu/faculty-profiles/park-sungkyun.html)
+* Physical activity: [Belinda Needham](https://sph.umich.edu/faculty-profiles/needham-belinda.html)
+* General feedback (including all the above; not exhaustive): [Michael Boehnke](https://sph.umich.edu/faculty-profiles/boehnke-michael.html), [Anita Pandit](https://precisionhealth.umich.edu/about/staff/), [Sebastian Z&ouml;llner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html), [Chad Brummett](https://medicine.umich.edu/dept/pain-research/chad-brummett-md), [Sachin Kheterpal](https://medicine.umich.edu/medschool/leadership/sachin-kheterpal-md-mba), [Stephanie Moser](https://medicine.umich.edu/dept/pain-research/stephanie-moser), [Elena Stoffel](https://www.uofmhealth.org/profile/2702/elena-martinez-stoffel-md), [Lars Fritsche](https://sph.umich.edu/faculty-profiles/fritsche-lars.html), [Amy Cohn](https://amycohn.engin.umich.edu), [Lynda Lisabeth](https://sph.umich.edu/faculty-profiles/lisabeth-lynda.html), [Frank Lobeck](https://precisionhealth.umich.edu/about/staff/)
+
+
+Following revisions based on feedback from domain experts and researchers and internal study team testing, the draft was again reviewed by Lisa Holland.
+
+
+<b><u>IRB Approval</u></b> After changes based on Lisa's second review, the questionnaire was submitted for IRB approval under HUM00155782. It received initial IRB approval on <u>9 October 2019</u>.
+
+<b><u>"Friends and Family"</u></b> After receiving initial IRB approval and programming into RKStudio, the survey was piloted in a "<i>friends and family</i>" format. The following individuals from Michigan and CareEvolution took part in the friends and family pilot:
+* Michigan: Max Salvatore, Lauren Beelsey, Sangjun Suh, Andrew Brouwer, Davina Barron, Laura Arboleda, Lars Fritsche, Alex Rix, Max Aung, Dan Barker, Mike Kleinsasser
+* CareEvolution: Zach Bornemeier, Jill Bornemeier, Dan Cuson, Don Kaczmer, Chris Nowak
+  
   
