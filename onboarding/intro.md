@@ -2,6 +2,7 @@
 
 [Quick hits](#quick-hits) <br/>
 [Background](#background) <br/>
+[Development](#development) <br/>
 
 ## Quick hits
 
@@ -53,6 +54,8 @@ When referring to MGI, the MGI periop cohort is always being referenced. It some
 
 For a brief overview of biobanks, major biobanks, and biobank-based research, refer to the first half of the [Beesley et al. 2019 paper](https://onlinelibrary.wiley.com/doi/10.1002/sim.8445).
 
+## Development
+
 <b>EPI-Q</b> The MGI Epidemiological Questionnaire (EPI-Q) serves to collect broad health-related information that cannot be readily or accurately obtained through linkable databases. Its development went through the following phases:
 * <b>Initial</b> The EPI-Q is based on the publicly available [UK Biobank survey](https://www.ukbiobank.ac.uk/wp-content/uploads/2019/09/Touchscreen-questionnaire-for-website_Copyright.pdf). 
   * The survey was broken up into distinct modules. Modules were reviewed for their utility in the case of EPI-Q considering the administration format and cross-sectional nature; some modules were identified as <i>baseline</i> modules and others <i>optional</i>. For example, because it is self-administered via electronic software and is collected cross-sectionally, the diet module was identified as being optional.
@@ -69,5 +72,10 @@ For a brief overview of biobanks, major biobanks, and biobank-based research, re
   * Healthcare access and utilization: [Minal Patel](https://sph.umich.edu/faculty-profiles/patel-minal.html)
   * Occupational exposure (context): [Richard Neitzel](https://sph.umich.edu/faculty-profiles/neitzel-richard.html) and [Sung Kyun Park](https://sph.umich.edu/faculty-profiles/park-sungkyun.html)
   * Physical activity: [Belinda Needham](https://sph.umich.edu/faculty-profiles/needham-belinda.html)
-  * General feedback (including all the above): [Michael Boehnke](https://sph.umich.edu/faculty-profiles/boehnke-michael.html), [Anita Pandit](https://precisionhealth.umich.edu/about/staff/), [Sebastian Z&ouml;llner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html), 
+  * General feedback (including all the above; not exhaustive): [Michael Boehnke](https://sph.umich.edu/faculty-profiles/boehnke-michael.html), [Anita Pandit](https://precisionhealth.umich.edu/about/staff/), [Sebastian Z&ouml;llner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html), [Chad Brummett](https://medicine.umich.edu/dept/pain-research/chad-brummett-md), [Sachin Kheterpal](https://medicine.umich.edu/medschool/leadership/sachin-kheterpal-md-mba), [Stephanie Moser](https://medicine.umich.edu/dept/pain-research/stephanie-moser), [Elena Stoffel](https://www.uofmhealth.org/profile/2702/elena-martinez-stoffel-md), [Lars Fritsche](https://sph.umich.edu/faculty-profiles/fritsche-lars.html), [Amy Cohn](https://amycohn.engin.umich.edu), [Lynda Lisabeth](https://sph.umich.edu/faculty-profiles/lisabeth-lynda.html), [Frank Lobeck](https://precisionhealth.umich.edu/about/staff/)
+* Following revisions based on feedback from domain experts and researchers and internal study team testing, the draft was again reviewed by Lisa Holland.
+* <b>IRB Approval</b> After changes based on Lisa's second review, the questionnaire was submitted for IRB approval under HUM00155782. It received initial IRB approval on 9 October 2019.
+* <b>"Friends and Family"</b> After receiving initial IRB approval and programming into RKStudio, the survey was piloted in a "<i>friends and family</i>" format. The following individuals from Michigan and CareEvolution took part in the friends and family pilot:
+  * Michigan: Max Salvatore, Lauren Beelsey, Sangjun Suh, Andrew Brouwer, Davina Barron, Laura Arboleda, Lars Fritsche, Alex Rix, Max Aung, Dan Barker, Mike Kleinsasser
+  * CareEvolution: Zach Bornemeier, Jill Bornemeier, Dan Cuson, Don Kaczmer, Chris Nowak
   
