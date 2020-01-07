@@ -11,6 +11,7 @@ Max Salvatore ([mmsalva@umich.edu](mailto:mmsalva@umich.edu); 440-915-8570)<br/>
 Davina Barron ([davinab@umich.edu](mailto:davinab@umich.edu))<br/>
 Justin Gotlieb ([gotliebj@med.umich.edu](mailto:gotliebj@med.umich.edu))<br/>
 Janet Houghtby ([houghtb@med.umich.edu](mailto:houghtb@med.umich.edu)<br/>
+Swaraaj Prabhu Sankar ([swarsank@umich.edu](mailto:swarsank@umich.edu))<br/>
 
 #### CareEvolution
 Zach Bornemeier ([zach@careevolution.com](mailto:zach@careevolution.com))<br/>
@@ -52,4 +53,14 @@ There are other important ongoing or forthcoming cohorts:
 
 For a brief overview of biobanks, major biobanks, and biobank-based research, refer to the first half of the [Beesley et al. 2019 paper](https://onlinelibrary.wiley.com/doi/10.1002/sim.8445).
 
-The MGI Epidemiological Questionnaire (EPI-Q) serves to collect broad health-related information that cannot be readily or accurately obtained through linkable databases.
+<b>EPI-Q</b> The MGI Epidemiological Questionnaire (EPI-Q) serves to collect broad health-related information that cannot be readily or accurately obtained through linkable databases. Its development went through the following phases:
+* <b>Initial</b> The EPI-Q is based on the publicly available [UK Biobank survey](https://www.ukbiobank.ac.uk/wp-content/uploads/2019/09/Touchscreen-questionnaire-for-website_Copyright.pdf). 
+  * The survey was broken up into distinct modules. Modules were reviewed for their utility in the case of EPI-Q considering the administration format and cross-sectional nature; some modules were identified as <i>baseline</i> modules and others <i>optional</i>. For example, because it is self-administered via electronic software and is collected cross-sectionally, the diet module was identified as being optional.
+  * Questions were reviewed for clarity and adapted by the study team for an American audience.
+  * Other biobank surveys were reviewed to compare similarities and identify gaps (i.e., modules/topics that are not present in the UK Biobank). These surveys include the MGI perioperative baseline survey, the <i>[All of Us](https://allofus.nih.gov/about/protocol/all-us-health-surveys)</i> initiative, and [Genes for Good](https://genesforgood.sph.umich.edu). All of Us received priority in identifying new modules/topics for inclusion as well as instruments/items to use to adapt UK Biobank survey for an American audience.
+  * Initial feedback from domain experts was collected on specific questions who recommended alterations and suggested alternative instruments for consideration.
+* <b>ISR</b> After this initial construction, the survey draft was shared with the [Survey Research Center](https://www.src.isr.umich.edu) at the [Institute for Social Research](https://isr.umich.edu). Max went through several revisions and met with [Lisa Holland](https://www.src.isr.umich.edu/people/lisa-holland/). Topics included:
+  * Adaption for American audience
+  * Consistency of response options within and across questions
+  * Survey flow - in what order to ask questions, what skip logic seems most appropriate, etc.
+  * Respondent burden - clarity, ease of understanding, topic comfortability, length of survey
