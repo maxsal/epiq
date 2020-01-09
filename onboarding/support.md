@@ -15,6 +15,8 @@ Related IRBs are:
 
 ## Approvals
 
+### Initial MGI Participant Data for Pilot
+We submitted a ticket via the [DOCTR-JIRA data request system](https://doctrjira.med.umich.edu/servicedesk/customer/portal/1) for data on EPI-Q eligible participants in MGI. The ticket assigned to this request was <b>HPI-3993</b>. The request was initially submitted on 6 September 2019 ahead of IRB approval to speed up the process. In early December 2019, Erin's team said the data had been pulled and they were waiting on Central Biorepository (CBR) steering committee approval to release the data. Shortly after, Erin's team identified an issue with different consent forms for early MGI enrollees and MIPACT participants, which would render some people ineligible for recontact for EPI-Q. As of 9 January 2020, Erin's team claims we should receive this data pull by the end of January 2020. Anisa Driscoll appears to be the person on Erin's team leading this pull.
 
 ## Support
 
