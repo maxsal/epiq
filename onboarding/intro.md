@@ -3,7 +3,8 @@
 [Quick hits](#quick-hits) <br/>
 [Background](#background) <br/>
 [Development](#development) <br/>
-[Support](#support) <br/>
+[Protocol](https://github.com/maxsal/epiq/blob/master/onboarding/protocol.md)<br/>
+[Support](https://github.com/maxsal/epiq/blob/master/onboarding/support.md) <br/>
 [Administration](https://github.com/maxsal/epiq/blob/master/onboarding/administration.md)<br/>
 
 ## Quick hits
