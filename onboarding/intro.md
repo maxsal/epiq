@@ -81,6 +81,9 @@ Zach Bornemeier ([zach@careevolution.com](mailto:zach@careevolution.com))<br/>
   * [Log-in](https://rkstudio.careevolution.com/inv/identityserver/local/login?signInId=e725f83291b11ba1023c710747c709b1)
   * Contact [Zach](zach@careevolution.com) and request access to the "Michigan OPEN" organization in RKStudio for an account
 
+### Participant list/contact information
+The participant list/contact information will be stored on the secure SPH/U:drive. Ask Davina ([davinab@umich.edu](mailto:davinab@umich.edu)) for access.
+
 ## Background
 
 The Michigan Genomics Initiative ([MGI](https://precisionhealth.umich.edu/michigangenomics/)) is a biobank at the University of Michigan that started in 2012. The goal is to create a massive health database that links to many data sources for the purposes of quickly performing hypothesis-free/hypothesis-generating studies and to speed up the ability to perform hypothesis-specific research, particularly with genetic data. The key characteristics of the current MGI consent are:
