@@ -13,6 +13,10 @@ Related IRBs are:
 * MGI MHB: HUM00097962<br/>
 * MGI Cancer Interface Repository: REP00000160<br/>
 
+#### IRB Updates
+* 9 October 2019: Initial IRB approval <br/>
+* 9 January 2020: Amendment adding Janet Houghtby and Justin Gotlieb approved; Frank Lobeck removed from study team<br/>
+
 ## Approvals
 
 ### Initial MGI Participant Data for Pilot
