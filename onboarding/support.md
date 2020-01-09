@@ -20,7 +20,6 @@ We submitted a ticket via the [DOCTR-JIRA data request system](https://doctrjira
 
 ## Support
 
-
 ### Letters of Support
 The following letters of support can be found in the Google Drive and are included in the eResearch application Section 44. They indicate the PI's approval of EPI-Q to recontact participants in their respective cohorts.
 * MGI periop: Chad Brummett, received 5 June 2019
@@ -28,3 +27,9 @@ The following letters of support can be found in the Google Drive and are includ
 * MGI MHB: Srijan Sen, received 3 June 2019
 
 ## Compliance
+
+### Information Assurance compliance review for use of CareEvolution/MyDataHelps in EPI-Q
+We needed to seek compliance approval to ensure that MyDataHelps met security protocol standards required for human subjects research and the nature of the data being collected through Michigan Medicine's [Service Now portal](https://michmed.service-now.com/sp/). We were assigned ticket <b>INC0733653</b>. A parallel request with ID <b>RITM0051084</b> was also created. Two things came up through this review process:
+1. There was a concern that the data being collected qualified as protected health (PH) information. Ultimately, the determination was made that data collected through EPI-Q does not qualify as PH and, thus, does not require additional review for stricter security protocols. <br/>
+2. Kendall DuBois said that MyDataHelps was previously reviewed and approved for use in a similar study. She sought blanket approval for MyDataHelps for use in data collection efforts that do not collect PH data.
+Imani Williams, a vulnerability analyst at Michigan Medicine's Information Assurance, said "based on Compliance’s ruling and our previous reviews of this app, nothing more is needed from a cybersecurity standpoint," indicating compliance approval for use of MyDataHelps in EPI-Q.
