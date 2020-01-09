@@ -4,6 +4,7 @@
 [Background](#background) <br/>
 [Development](#development) <br/>
 [Support](#support) <br/>
+[Administration](https://github.com/maxsal/epiq/blob/master/onboarding/administration.md)<br/>
 
 ## Quick hits
 
