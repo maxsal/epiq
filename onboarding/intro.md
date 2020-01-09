@@ -146,21 +146,3 @@ After receiving initial IRB approval and programming into RKStudio, the survey w
 * Michigan: Max Salvatore, Lauren Beelsey, Sangjun Suh, Andrew Brouwer, Davina Barron, Laura Arboleda, Lars Fritsche, Alex Rix, Max Aung, Dan Barker, Mike Kleinsasser
 * CareEvolution: Zach Bornemeier, Jill Bornemeier, Dan Cuson, Don Kaczmer, Chris Nowak
 Edits based on user feedback are currently being incorporated and will likely result in a new IRB amendment...
-  
-## Support
-
-### Permissions
-
-#### IRB
-
-### Approvals
-
-### Support
-
-#### Letters of Support
-The following letters of support can be found in the Google Drive and are included in the eResearch application Section 44. They indicate the PI's approval of EPI-Q to recontact participants in their respective cohorts.
-* MGI periop: Chad Brummett, received 5 June 2019
-* MGI MEND: Charles "Chuck" Burant, received 4 June 2019
-* MGI MHB: Srijan Sen, received 3 June 2019
-
-### Compliance
