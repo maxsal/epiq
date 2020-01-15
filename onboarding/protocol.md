@@ -60,11 +60,11 @@ The consent form will be completed via a electronic consent module in MyDataHelp
 
 ## Incentives
 
-Two incentive schemes are being randomly assigned as part of the pilot subsample for EPI-Q:
+For the initial launch of EPI-Q,  participants will be able to select one of two incentives:
 1. A free ancestry results (based on DNA they have previously provided through their participation in MGI)
 2. A $10 gift card reward
 
-The IRB will be amended prior to the full roll-out clarifying the incentive scheme to be used for all participants.
+If necessary, the IRB will be amended prior to the full roll-out clarifying the incentive scheme to be used for all participants.
 
 ## End of Participation
 
@@ -79,4 +79,4 @@ If a participant asks to withdraw from the original MGI study, the withdrawal re
 
 ### Data Retention and Use
 
-Data will be retained at the Research Data Warehouse (RDW) <b>indefinitely<b/>. Data may be used for research projects within the scope of the protocol. Before analysis, either at UM or outside the institution, data will be stripped of contact information and coded, unless the researchers have obtained additional ethical and regulatory board approvals to utilize identifiable data.
+Data will be retained at the Research Data Warehouse (RDW) <b>indefinitely</b>. Data may be used for research projects within the scope of the protocol. Before analysis, either at UM or outside the institution, data will be stripped of contact information and coded, unless the researchers have obtained additional ethical and regulatory board approvals to utilize identifiable data.
