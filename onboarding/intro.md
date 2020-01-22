@@ -56,7 +56,7 @@ Zach Bornemeier ([zach@careevolution.com](mailto:zach@careevolution.com))<br/>
 
 
 #### Precision Health Initiative
-[Frank Lobeck](https://precisionhealth.umich.edu/about/staff/) ([lobeckfr@med.umich.edu](mailto:lobeckfr@med.umich.edu))<br/>
+<i>[Frank Lobeck](https://precisionhealth.umich.edu/about/staff/) ([lobeckfr@med.umich.edu](mailto:lobeckfr@med.umich.edu); no longer active team memeber)</i><br/>
 * Director of Cohort Development. Provides important direction and support for EPI-Q recruitment and is the Precision Health contact person regarding EPI-Q budget issues.<br/>
 
 [Kendall DuBois](https://medicine.umich.edu/dept/pain-research/kendall-dubois) ([kendalld@med.umich.edu](mailto:kendalld@med.umich.edu))
@@ -82,7 +82,7 @@ Zach Bornemeier ([zach@careevolution.com](mailto:zach@careevolution.com))<br/>
   * Contact [Zach](zach@careevolution.com) and request access to the "Michigan OPEN" organization in RKStudio for an account
 
 ### Participant list/contact information
-The participant list/contact information will be stored on the secure SPH/U:drive. Ask Davina ([davinab@umich.edu](mailto:davinab@umich.edu)) for access.
+The participant list/contact information will be stored on the secure SPH U:\Drive. Ask Davina ([davinab@umich.edu](mailto:davinab@umich.edu)) or Max ([mmsalva@umich.edu](mailto:mmsalva@umich.edu)) to ask SPH Help ([sph.help@umich.edu](mailto:sph.help@umich.edu)) to give you access.
 
 ## Background
 
